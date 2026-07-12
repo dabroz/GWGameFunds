@@ -1,5 +1,7 @@
 # 💰 Funding Types
 
+🇵🇱 [Wersja polska](FundingTypesPL.md)
+
 Publisher, project investor, equity investor — three very different animals that are easy to confuse, because all three "give you money to make a game." The difference is in **what they buy** and **how they earn it back**. Terms used here are explained in [Basic Definitions](Definitions.md).
 
 ---
@@ -48,7 +50,7 @@ Publisher, project investor, equity investor — three very different animals th
 - **What "net revenue" means** and what exactly is recoupable.
 - **Cross-collateralization** across platforms or titles.
 - Sequel rights and long exclusivities.
-- A bad publisher is worse than no publisher: you give up revenue *and* control and get shelf-ware support. Do due diligence on them too — talk to devs from their portfolio.
+- A bad publisher is worse than no publisher: you give up revenue *and* control and get next to no support in return. Do due diligence on them too — talk to devs from their portfolio.
 
 ## 2. Project Investment
 
@@ -104,6 +106,8 @@ Ask yourself three questions:
 3. **What am I willing to give up?** Revenue for a while → publisher/project. Ownership forever → equity. Time and paperwork → grants.
 
 Most funded indies **mix** types: a national grant for the prototype, a publisher or project investor for production, a platform deal at launch. The types aren't exclusive — but each contract constrains the next one, so plan the whole stack before signing the first piece.
+
+Whichever you pick, have a games-specialized lawyer review the contract before you sign. In Poland a good starting point is the [Gamedev Lawyers Association (GLA)](https://gla.dev/) and the games-focused law firms around it.
 
 ---
 

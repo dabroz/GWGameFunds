@@ -4,7 +4,7 @@
 
 **Last updated:** July 2026 · **Entries:** 225+ · **Language:** English
 
-> ⚠️ **Disclaimer:** This industry changes fast — publishers shut down, funds pause, contacts move, pitch windows open and close. **Always verify status, terms and openness to pitches on official channels before reaching out.** Revenue and class figures are Gamalytic estimates and drift monthly. Entries marked `[?]` are unverified or estimated.).
+> ⚠️ **Disclaimer:** This industry changes fast — publishers shut down, funds pause, contacts move, pitch windows open and close. **Always verify status, terms and openness to pitches on official channels before reaching out.** Revenue and class figures are Gamalytic estimates and drift monthly. Entries marked `[?]` are unverified or estimated.
 
 **Primary source:** the community ["In-depth Publisher List"](https://docs.google.com/spreadsheets/d/15AN1I1mB67AJkpMuUUfM5ZUALkQmrvrznnPYO5QbqD0/edit?gid=2049353894) (by Seyed Nasrollahi), merged with verified data on VC funds, developer-run funds, platform programs and public grants from official announcements and industry press.
 

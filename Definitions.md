@@ -1,5 +1,7 @@
 # 📖 Basic Definitions
 
+🇵🇱 [Wersja polska](DefinitionsPL.md)
+
 The vocabulary you'll run into when looking for game funding — grouped by topic, explained in plain language. Cross-referenced with the [Game Funding Directory](GameFundingDirectory.md) and the [Funding Types](FundingTypes.md) guide.
 
 ---
@@ -89,7 +91,7 @@ The vocabulary you'll run into when looking for game funding — grouped by topi
 | **Conversion** | Demo→purchase or wishlist→purchase rate. |
 | **GaaS (Games as a Service)** | Games designed for years of post-launch content and monetization. Funders evaluate these on retention and monetization, not just launch sales. |
 | **Gap financing** | Money covering the *gap* between what you have (grant, savings, partial publisher deal) and the full budget. |
-| **Tax incentive / rebate** | Government programs returning a percentage of qualified dev spend (e.g. UK VGTR/VGEC, France CIJV). Effectively free money for eligible studios. |
+| **Tax incentive / rebate** | Government programs returning a percentage of qualified dev spend (e.g. the UK's VGTR/VGEC or France's CIJV). Effectively free money for eligible studios. |
 
 ---
 
@@ -103,6 +105,7 @@ The vocabulary you'll run into when looking for game funding — grouped by topi
 - Y Combinator — the standard SAFE documents and how they work: https://www.ycombinator.com/documents
 - Investopedia — reference for general finance terms (valuation, dilution, liquidation preference, convertible note): https://www.investopedia.com/
 - Deal-structure notes (recoup, rev share, budget ranges) cross-checked against the community In-depth Publisher List — see [directory sources](GameFundingDirectory.md#sources)
+- Games-law advice in Poland: [Gamedev Lawyers Association (GLA)](https://gla.dev/) — an association of lawyers serving the gamedev industry — and games-focused law firms around it
 
 ---
 

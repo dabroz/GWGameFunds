@@ -1,5 +1,7 @@
 # 🎯 Pitch Deck Tutorial
 
+🇵🇱 [Wersja polska](PitchDeckTutorialPL.md)
+
 How to build a pitch deck that gets read — the universal structure first, then what to emphasize for each funding type (publisher, project investor, equity/VC, grants — see [Funding Types](FundingTypes.md) if the differences are fuzzy). Terms are explained in [Basic Definitions](Definitions.md).
 
 ---
@@ -203,10 +205,11 @@ A great deck with a bad process still fails:
 5. **Track everything** in a spreadsheet: who, when, response, feedback. Patterns in rejections tell you what to fix.
 6. **Events help:** GDC, Gamescom/Devcom, DevGAMM and regional events all have publisher/investor matchmaking that skips the cold-email pile.
 7. **Expect months.** From first contact to signed deal, 3–9 months is normal. Pitch *before* you're desperate — desperation prices badly.
+8. **Lawyer up before signing.** When a term sheet or contract lands, have a games-specialized lawyer review it. In Poland a good starting point is the [Gamedev Lawyers Association (GLA)](https://gla.dev/) and the games-focused law firms around it.
 
 ## Common Mistakes
 
-- **Burying the game.** Slide 1–2 must show what the player does. Lore, studio history and market theory come later or never.
+- **Burying the game.** Slides 1–2 must show what the player does. Lore, studio history and market theory come later or never.
 - **No ask.** Decks that never say how much money they want, for what, and what's offered in return.
 - **Fantasy comps** — comparing to genre-defining megahits as your expected case.
 - **Wrong deck for the audience** — sending the game-first publisher deck to a VC, or an ROI model to a grant committee (this whole guide exists because of this mistake).
