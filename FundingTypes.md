@@ -24,17 +24,17 @@ Publisher, project investor, equity investor — three very different animals th
 | **What they buy** | Rights to *publish your game* | A share of *one game's* revenue | A share of *your company* |
 | **Money comes as** | Recoupable advance, paid per milestone | Investment, paid per milestone/tranche | Cash for shares, usually up front per round |
 | **They earn from** | Revenue share after recoup | Revenue share of that game | Growth of company value → exit |
-| **Who keeps game IP** | Negotiable — often the dev, sometimes the publisher ⚠️ | **The dev** (that's the point) | The company (which investors now co-own) |
+| **Who keeps game IP** | Negotiable — often the dev, sometimes the publisher ⚠️ | **The dev** (the defining feature of this model) | The company (which investors now co-own) |
 | **They also provide** | Marketing, QA, ports, localization, platform relations | Money, sometimes advice/contacts | Money, network, hiring help, next-round intros |
 | **Their horizon** | This game's launch + tail | This game's revenue | 5–10 years, multiple games, exit |
-| **You lose** | 20–50% of net revenue + control over release/marketing | A cut of one game's revenue | A piece of *everything, forever* + some control |
+| **You lose** | 20–50% of net revenue + control over release/marketing | A cut of one game's revenue | A permanent share of all future company income + some control |
 | **Directory sections** | [A](GameFundingDirectory.md#a-high-budget-publishers-aaaaa-capable), [B](GameFundingDirectory.md#b-mid--low-budget-indie-publishers), [C](GameFundingDirectory.md#c-newer--startup--creator-backed-publishers), [D](GameFundingDirectory.md#d-aaa-publishers--platform-programs) | [E](GameFundingDirectory.md#e-game-focused-vc-funds--equity-investors), [F](GameFundingDirectory.md#f-developer-run-funds--alternative-financing) (some) | [E](GameFundingDirectory.md#e-game-focused-vc-funds--equity-investors) |
 
-*(Grants — [section G](GameFundingDirectory.md#g-grants--public-funding) — are the fourth type: non-dilutive, no rev share, no equity. If you qualify, always apply.)*
+*(Grants — [section G](GameFundingDirectory.md#g-grants--public-funding) — are the fourth type: non-dilutive, no rev share, no equity. If you meet the criteria, they are usually worth applying for.)*
 
 ## 1. Publishing Deal
 
-**The classic.** A publisher pays a recoupable advance (in milestones) and takes over bringing the game to market: marketing, QA, localization, porting, platform deals, sometimes production support.
+**The most common model.** A publisher pays a recoupable advance (in milestones) and takes over bringing the game to market: marketing, QA, localization, porting, platform deals, sometimes production support.
 
 **How the money flows:** the publisher recoups the advance (and often marketing spend) from revenue first; after recoup you split net revenue at the agreed rate (anywhere from 50/50 to 80/20 dev/publisher — every deal differs).
 
@@ -50,7 +50,7 @@ Publisher, project investor, equity investor — three very different animals th
 - **What "net revenue" means** and what exactly is recoupable.
 - **Cross-collateralization** across platforms or titles.
 - Sequel rights and long exclusivities.
-- A bad publisher is worse than no publisher: you give up revenue *and* control and get next to no support in return. Do due diligence on them too — talk to devs from their portfolio.
+- A mismatched or passive publisher combines the downsides of both worlds: lower revenue and less control, without effective support in return. Due diligence runs both ways — talk to devs from their portfolio.
 
 ## 2. Project Investment
 
@@ -81,17 +81,17 @@ Publisher, project investor, equity investor — three very different animals th
 ✅ **Good when:**
 - You're building a *studio* (or tech/platform), not just shipping one game.
 - You need to hire ahead of revenue and can't milestone-finance that.
-- You're genuinely OK with the endgame VCs need: growth and acquisition. That's not a side effect — it's the deal.
+- You accept the outcome VC funds are structured around: rapid growth of company value followed by an acquisition. That outcome is the intended result of this investment model.
 
 ⚠️ **Watch out for:**
-- Equity is the most expensive money you'll ever take. Selling 25% for one game's budget means giving up 25% of every future hit.
+- Equity is usually the most expensive form of financing over the long run: selling 25% for one game's budget means giving up 25% of the profits from every future project.
 - Board seats, veto rights and liquidation preferences shift control away from you.
-- VC pace ≠ game dev pace. Investors expecting SaaS-style growth can push studios into bad decisions.
-- A single-game indie studio is usually a *bad* VC case — if that's you, sections A–B and F–G of the directory will serve you better.
+- VC growth expectations, often calibrated to software companies, can be hard to reconcile with game production cycles; pressure for fast results can lead to poor product decisions.
+- A studio planning a single title rarely meets VC investment criteria — in that case, sections A–B and F–G of the directory are a better fit.
 
 ## 4. Honorable Mentions
 
-- **Grants & public funding** ([section G](GameFundingDirectory.md#g-grants--public-funding)) — non-dilutive. Applications are bureaucratic and slow, but free money is free money. Often perfect for prototyping.
+- **Grants & public funding** ([section G](GameFundingDirectory.md#g-grants--public-funding)) — non-dilutive. Application processes are formal and slow, but the cost of this capital is zero — if you meet the criteria, applying is usually worthwhile. Well suited to the prototyping stage.
 - **Platform funding** ([section D](GameFundingDirectory.md#d-aaa-publishers--platform-programs)) — Epic MegaGrants, exclusivity deals, Game Pass / PS Plus placements. Often non-dilutive or paid up front; usually costs some exclusivity or timing.
 - **Crowdfunding** (Kickstarter etc.) — pre-selling to players. Doubles as marketing and traction proof, but a campaign is a full-time job and backers are customers you now owe.
 - **Work-for-hire / co-development** — not funding at all, but the way many studios actually survive: someone else's project pays your bills while you build your own.

@@ -25,17 +25,17 @@ Wydawca, inwestor w projekt, inwestor equity — to trzy zupełnie różne świa
 | **Co kupują** | Prawo do *wydania Twojej gry* | Udział w przychodach *jednej gry* | Udziały w *Twojej firmie* |
 | **Forma wypłaty** | Zaliczka podlegająca recoupowi, wypłacana po milestone'ach | Inwestycja wypłacana w transzach / po milestone'ach | Gotówka za udziały, zwykle z góry przy każdej rundzie |
 | **Zarabiają na** | Udziale w przychodach po recoupie | Udziale w przychodach tej gry | Wzroście wartości firmy → exit |
-| **Kto zachowuje prawa do gry** | Do negocjacji — często deweloper, czasem wydawca ⚠️ | **Deweloper** (o to właśnie chodzi) | Firma (której współwłaścicielami są teraz inwestorzy) |
+| **Kto zachowuje prawa do gry** | Do negocjacji — często deweloper, czasem wydawca ⚠️ | **Deweloper** (cecha definiująca ten model) | Firma (której współwłaścicielami są teraz inwestorzy) |
 | **Co jeszcze dają** | Marketing, QA, porty, lokalizację, kontakty z platformami | Pieniądze, czasem doradztwo i kontakty | Pieniądze, sieć kontaktów, pomoc w rekrutacji, wprowadzenie do kolejnej rundy |
 | **Ich horyzont** | Premiera tej gry + dalsza sprzedaż | Przychody tej gry | 5–10 lat, wiele gier, exit |
-| **Co tracisz** | 20–50% przychodów netto + kontrolę nad premierą i marketingiem | Część przychodów jednej gry | Część *wszystkiego, na zawsze* + trochę kontroli |
+| **Co tracisz** | 20–50% przychodów netto + kontrolę nad premierą i marketingiem | Część przychodów jednej gry | Stały udział we wszystkich przyszłych przychodach firmy + część kontroli |
 | **Sekcje katalogu** | [A](GameFundingDirectory.md#a-high-budget-publishers-aaaaa-capable), [B](GameFundingDirectory.md#b-mid--low-budget-indie-publishers), [C](GameFundingDirectory.md#c-newer--startup--creator-backed-publishers), [D](GameFundingDirectory.md#d-aaa-publishers--platform-programs) | [E](GameFundingDirectory.md#e-game-focused-vc-funds--equity-investors), [F](GameFundingDirectory.md#f-developer-run-funds--alternative-financing) (część) | [E](GameFundingDirectory.md#e-game-focused-vc-funds--equity-investors) |
 
-*(Granty — [sekcja G](GameFundingDirectory.md#g-grants--public-funding) — to czwarty typ: bez rozwadniania udziałów, bez oddawania przychodów. Jeśli się kwalifikujesz, zawsze aplikuj.)*
+*(Granty — [sekcja G](GameFundingDirectory.md#g-grants--public-funding) — to czwarty typ: bez rozwadniania udziałów, bez oddawania przychodów. Jeśli spełniasz kryteria, zwykle warto aplikować.)*
 
 ## 1. Umowa wydawnicza
 
-**Klasyka.** Wydawca wypłaca zaliczkę podlegającą recoupowi (w transzach po milestone'ach) i bierze na siebie wprowadzenie gry na rynek: marketing, QA, lokalizację, porty, umowy z platformami, czasem także wsparcie produkcyjne.
+**Najczęstszy model finansowania gier.** Wydawca wypłaca zaliczkę podlegającą recoupowi (w transzach po milestone'ach) i bierze na siebie wprowadzenie gry na rynek: marketing, QA, lokalizację, porty, umowy z platformami, czasem także wsparcie produkcyjne.
 
 **Jak płyną pieniądze:** wydawca najpierw odzyskuje z przychodów zaliczkę (często również wydatki marketingowe); dopiero potem dzielicie przychód netto w uzgodnionych proporcjach (od 50/50 do 80/20 na korzyść dewelopera — każda umowa jest inna).
 
@@ -51,7 +51,7 @@ Wydawca, inwestor w projekt, inwestor equity — to trzy zupełnie różne świa
 - **Definicję „przychodu netto"** i dokładną listę tego, co podlega recoupowi.
 - **Cross-collateralization** między platformami lub tytułami.
 - Prawa do sequeli i wieloletnie okresy wyłączności.
-- Zły wydawca jest gorszy niż żaden: oddajesz przychody *i* kontrolę, a wsparcie dostajesz tylko na papierze. Prześwietl również jego — porozmawiaj z deweloperami z jego portfolio.
+- Niedopasowany albo mało aktywny wydawca łączy wady obu scenariuszy: obniża Twoje przychody i ogranicza kontrolę, nie zapewniając w zamian realnego wsparcia. Due diligence działa więc w obie strony — porozmawiaj z deweloperami z jego portfolio.
 
 ## 2. Inwestycja w projekt
 
@@ -82,17 +82,17 @@ Wydawca, inwestor w projekt, inwestor equity — to trzy zupełnie różne świa
 ✅ **Dobry wybór, gdy:**
 - Budujesz *studio* (albo technologię czy platformę), a nie pojedynczą grę.
 - Musisz zatrudniać ludzi, zanim pojawią się przychody, a takich kosztów nie da się sfinansować milestone'ami.
-- Naprawdę odpowiada Ci scenariusz, do którego dążą VC: szybki wzrost i przejęcie. To nie skutek uboczny — na tym polega ta umowa.
+- Akceptujesz scenariusz, na który nastawiony jest fundusz: szybki wzrost wartości firmy i jej późniejszą sprzedaż. Taki jest zakładany rezultat tego modelu inwestycyjnego.
 
 ⚠️ **Uważaj na:**
-- Equity to najdroższe pieniądze, jakie kiedykolwiek weźmiesz. Sprzedaż 25% firmy za budżet jednej gry oznacza oddanie 25% każdego przyszłego sukcesu.
+- Equity to zwykle najdroższa forma finansowania w długim okresie: sprzedaż 25% firmy za budżet jednej gry oznacza oddanie 25% zysków ze wszystkich przyszłych projektów.
 - Miejsca w radzie nadzorczej, prawa weta i liquidation preferences odbierają Ci część kontroli.
-- Tempo VC to nie tempo gamedevu. Inwestorzy oczekujący wzrostu jak w branży SaaS potrafią wepchnąć studio w złe decyzje.
-- Niezależne studio z jedną grą to z perspektywy VC zwykle kiepska inwestycja — jeśli to Twój przypadek, lepiej szukać w sekcjach A–B i F–G katalogu.
+- Oczekiwania funduszy co do tempa wzrostu, często wzorowane na firmach software'owych, bywają trudne do pogodzenia z cyklem produkcji gier; presja na szybkie wyniki może prowadzić do niekorzystnych decyzji projektowych.
+- Studio planujące jeden tytuł zwykle nie spełnia kryteriów inwestycyjnych VC — w takiej sytuacji lepszym adresem są sekcje A–B i F–G katalogu.
 
 ## 4. Warte wzmianki
 
-- **Granty i finansowanie publiczne** ([sekcja G](GameFundingDirectory.md#g-grants--public-funding)) — bez oddawania udziałów i przychodów. Wnioski są biurokratyczne i powolne, ale darmowe pieniądze to darmowe pieniądze. Często idealne na etap prototypu.
+- **Granty i finansowanie publiczne** ([sekcja G](GameFundingDirectory.md#g-grants--public-funding)) — bez oddawania udziałów i przychodów. Procedury są sformalizowane i czasochłonne, ale koszt tego kapitału jest zerowy — jeśli spełniasz kryteria, zwykle warto aplikować. Dobrze sprawdzają się na etapie prototypu.
 - **Finansowanie od platform** ([sekcja D](GameFundingDirectory.md#d-aaa-publishers--platform-programs)) — Epic MegaGrants, umowy na wyłączność, obecność w Game Pass / PS Plus. Często bez rozwadniania albo płatne z góry; ceną bywa wyłączność lub narzucony termin.
 - **Crowdfunding** (Kickstarter itd.) — przedsprzedaż bezpośrednio graczom. Działa też jako marketing i dowód zainteresowania, ale kampania to praca na pełen etat, a wspierający to klienci, wobec których masz od tej pory zobowiązania.
 - **Work-for-hire / co-development** — to nie jest finansowanie w ścisłym sensie, ale właśnie dzięki niemu przeżywa wiele studiów: cudzy projekt płaci rachunki, a Ty w tym czasie budujesz własny.
@@ -104,7 +104,7 @@ Zadaj sobie trzy pytania:
 
 1. **Co buduję — grę czy firmę?** Jedna gra → wydawca, inwestycja w projekt albo grant. Studio z planem na wiele tytułów i duże ambicje → equity może mieć sens.
 2. **Czego potrzebuję poza pieniędzmi?** Siły marketingowej i dostępu do platform → wydawca. Samego kapitału, z zachowaniem kontroli → inwestycja w projekt albo grant.
-3. **Co jestem gotów oddać?** Przychody na jakiś czas → wydawca lub inwestycja w projekt. Część własności na zawsze → equity. Czas i papierologię → granty.
+3. **Co jestem gotów oddać?** Przychody na jakiś czas → wydawca lub inwestycja w projekt. Część własności na stałe → equity. Czas i obsługę administracyjną → granty.
 
 Większość niezależnych twórców, którzy zdobyli finansowanie, **łączy** różne typy: grant krajowy na prototyp, wydawca albo inwestor projektowy na produkcję, umowa z platformą przy premierze. Typy się nie wykluczają — ale każda umowa ogranicza pole manewru przy następnej, więc zaplanuj całą układankę, zanim podpiszesz pierwszy element.
 

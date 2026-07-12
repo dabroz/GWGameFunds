@@ -75,7 +75,7 @@ Pojęcia, na które natkniesz się, szukając finansowania gry — pogrupowane t
 | **Exit (wyjście z inwestycji)** | Sposób, w jaki inwestorzy odzyskują pieniądze: przejęcie studia albo (w grach rzadko) wejście na giełdę. Jeśli bierzesz pieniądze od VC, exit jest *oczekiwanym* scenariuszem — upewnij się, że tego chcesz. |
 | **Vesting** | Udziały założycieli nabywa się stopniowo (zwykle przez 4 lata). To zabezpieczenie na wypadek, gdyby współzałożyciel odszedł przedwcześnie. |
 | **Liquidation preference** | Przy exicie inwestorzy dostają pieniądze jako pierwsi (zwykle równowartość zainwestowanej kwoty), przed pozostałymi udziałowcami. To standard, ale uważaj na mnożniki wyższe niż 1×. |
-| **Finansowanie nierozwadniające (non-dilutive)** | Pieniądze, które nie kosztują ani udziałów, ani procentu od przychodów — granty, ulgi podatkowe, część umów z platformami. Najtańsze pieniądze, jakie istnieją. Korzystaj, kiedy tylko możesz. |
+| **Finansowanie nierozwadniające (non-dilutive)** | Pieniądze, które nie kosztują ani udziałów, ani procentu od przychodów — granty, ulgi podatkowe, część umów z platformami. Forma finansowania o najniższym koszcie kapitału, dlatego zwykle warto sięgać po nią w pierwszej kolejności. |
 
 ## Pieniądze i metryki
 
@@ -92,7 +92,7 @@ Pojęcia, na które natkniesz się, szukając finansowania gry — pogrupowane t
 | **Konwersja** | Odsetek graczy przechodzących od demo do zakupu albo od wishlisty do zakupu. |
 | **GaaS (Games as a Service)** | Gry projektowane z myślą o wieloletnim wsparciu po premierze i stałej monetyzacji. Finansujący oceniają je po retencji i monetyzacji, nie tylko po wynikach premiery. |
 | **Gap financing** | Pieniądze na pokrycie *luki* między tym, co już masz (grant, oszczędności, częściowa umowa wydawnicza), a pełnym budżetem. |
-| **Ulga podatkowa / rebate** | Rządowe programy zwracające część kwalifikowanych wydatków produkcyjnych (np. brytyjski VGTR/VGEC, francuski CIJV). W praktyce darmowe pieniądze dla studiów, które spełniają warunki. |
+| **Ulga podatkowa / rebate** | Rządowe programy zwracające część kwalifikowanych wydatków produkcyjnych (np. brytyjski VGTR/VGEC, francuski CIJV). Pozwalają odzyskać część budżetu bez oddawania udziałów ani przychodów. |
 
 ---
 

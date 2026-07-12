@@ -74,7 +74,7 @@ The vocabulary you'll run into when looking for game funding — grouped by topi
 | **Exit** | How investors get their money back: acquisition of the studio, or (rarely in games) IPO. If you take VC money, an exit is the *expected* outcome — be sure you want that. |
 | **Vesting** | Founder shares are earned over time (typically 4 years). Protects everyone if a co-founder leaves early. |
 | **Liquidation preference** | On exit, investors get paid first (usually 1× their money) before common shareholders. Standard, but watch for multiples above 1×. |
-| **Non-dilutive funding** | Money that costs no equity and no rev share — grants, tax incentives, some platform deals. The cheapest money that exists. Take it when you can. |
+| **Non-dilutive funding** | Money that costs no equity and no rev share — grants, tax incentives, some platform deals. The form of financing with the lowest cost of capital, so it's usually worth pursuing first. |
 
 ## Money & Metrics
 
@@ -91,7 +91,7 @@ The vocabulary you'll run into when looking for game funding — grouped by topi
 | **Conversion** | Demo→purchase or wishlist→purchase rate. |
 | **GaaS (Games as a Service)** | Games designed for years of post-launch content and monetization. Funders evaluate these on retention and monetization, not just launch sales. |
 | **Gap financing** | Money covering the *gap* between what you have (grant, savings, partial publisher deal) and the full budget. |
-| **Tax incentive / rebate** | Government programs returning a percentage of qualified dev spend (e.g. the UK's VGTR/VGEC or France's CIJV). Effectively free money for eligible studios. |
+| **Tax incentive / rebate** | Government programs returning a percentage of qualified dev spend (e.g. the UK's VGTR/VGEC or France's CIJV). A non-dilutive way to recover part of the budget for eligible studios. |
 
 ---
 

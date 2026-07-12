@@ -160,7 +160,7 @@ Inwestor projektowy kupuje **udział w przychodach jednej gry** — interesuje g
 
 - **Model finansowy.** Rozwiń slajd budżetowy w uproszczony rachunek zysków i strat: budżet → scenariusze przychodu (ostrożny / oczekiwany / optymistyczny) → wypłaty inwestora przy proponowanym waterfallu w każdym z nich. Pokaż, że umowa jest atrakcyjna w scenariuszu *oczekiwanym*, nie tylko w wymarzonym.
 - **Plan samodzielnego wydania.** Skoro inwestor nie wnosi machiny marketingowej, udowodnij, że masz własny plan: osobna pozycja budżetu na marketing, strategia zbierania wishlist, odpowiedzialni za porty i QA. Jeśli częścią planu jest wydawca odpowiadający tylko za marketing, wskaż go z nazwy.
-- **Track record i ograniczanie ryzyka** — co już zbudowano, co zweryfikowano (wyniki demo, playtesty), co zostało do zrobienia. Koszmarem inwestora jest nieukończona gra; pokaż, że droga do premiery jest krótka i pozbawiona niespodzianek.
+- **Track record i ograniczanie ryzyka** — co już zbudowano, co zweryfikowano (wyniki demo, playtesty), co zostało do zrobienia. Głównym ryzykiem z perspektywy inwestora jest nieukończona gra; pokaż, że droga do premiery jest krótka i przewidywalna.
 - **Propozycja struktury umowy** — kolejność recoupu, ewentualna premia, proporcje podziału i prawa pozostające u Ciebie. Spójna propozycja świadczy o profesjonalizmie (a i tak wynegocjują swoje).
 
 **Ogranicz do minimum:** długofalową wizję studia, sequele (chyba że jako dodatkowy potencjał), rozważania artystyczne.
@@ -172,7 +172,7 @@ Inwestor projektowy kupuje **udział w przychodach jednej gry** — interesuje g
 VC kupują **część Twojej firmy** — gra jest tu *dowodem*, nie produktem. Taki deck bliższy jest prezentacji startupu niż pitchowi gry. Zbuduj go wokół:
 
 - **Zespół na pierwszym miejscu.** Przy inwestycjach na wczesnym etapie zespół to 60% decyzji. Doświadczenie, wydane tytuły i powód, dla którego właśnie ta grupa jest wyjątkowo dobrze skrojona pod ten plan.
-- **Wizja i skala** — czym *firma* stanie się za 5–10 lat: studiem z wieloma tytułami? fabryką własnych marek? firmą technologiczną? „Robimy jedną fajną grę indie" nie przekona żadnego VC — a jeśli to szczera odpowiedź, nie pitchuj funduszom (zob. [Rodzaje Finansowania](FundingTypesPL.md#3-inwestycja-equity)).
+- **Wizja i skala** — czym *firma* stanie się za 5–10 lat: studiem z wieloma tytułami? fabryką własnych marek? firmą technologiczną? Plan oparty na jednym tytule zwykle nie spełnia kryteriów inwestycyjnych VC — w takiej sytuacji equity nie jest właściwym modelem finansowania (zob. [Rodzaje Finansowania](FundingTypesPL.md#3-inwestycja-equity)).
 - **Wielkość rynku** — rozmiar gatunku lub segmentu i powody, dla których rośnie. VC myślą rynkami, nie pojedynczymi tytułami.
 - **Maszyna, nie gra** — pipeline, rytm wydawniczy, sposób, w jaki kolejne tytuły budują na sobie (wspólna technologia, publiczność, marki). Pierwszą grę pokaż jako dowód, że ta maszyna działa.
 - **Finanse i runda** — kwota, którą zbierasz, oczekiwana wycena (albo „rynkowa"), runway, który za to kupisz, cele, które w tym czasie osiągniesz, i jak ma wyglądać *kolejna* runda. Cap table znaj na pamięć.

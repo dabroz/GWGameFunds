@@ -160,7 +160,7 @@ Project investors buy **a share of one game's revenue** — they're underwriting
 
 - **The financial model.** Expand the budget slide into a mini-P&L: budget → floor/expected/ceiling revenue scenarios → their returns under the proposed waterfall in each. Show the deal is attractive in the *expected* case, not just the dream case.
 - **Your self-publishing plan.** Since they don't bring a marketing machine, prove you have one: marketing budget line, wishlist strategy, who handles ports and QA. If a marketing-only publisher is part of the plan, name them.
-- **Track record & de-risking** — what's already built, what's validated (demo metrics, playtests), what remains. Their nightmare is an unfinished game; show them the path from here to launch is short and boring.
+- **Track record & de-risking** — what's already built, what's validated (demo metrics, playtests), what remains. The main risk they underwrite is an unfinished game; show that the path from here to launch is short and predictable.
 - **Deal structure proposal** — recoup order, premium, split, and IP staying with you. Coming with a coherent proposed structure signals professionalism (they'll negotiate it anyway).
 
 **De-emphasize:** long-term studio vision, sequels (unless offered as upside), art philosophy.
@@ -172,7 +172,7 @@ Project investors buy **a share of one game's revenue** — they're underwriting
 VCs buy **a piece of your company** — the game is *evidence*, not the product. This deck is closer to a startup deck than a game pitch. Restructure around:
 
 - **Team first.** For early-stage equity, team is 60% of the decision. Backgrounds, shipped titles, why this group is unfairly suited to this plan.
-- **Vision & scale** — what the *company* becomes in 5–10 years: a multi-title studio? an IP factory? a platform/tech play? "We make one nice indie game" is not a VC case — and if that's the honest answer, don't pitch VCs (see [Funding Types](FundingTypes.md#3-equity-investment)).
+- **Vision & scale** — what the *company* becomes in 5–10 years: a multi-title studio? an IP factory? a platform/tech play? A plan built around a single title rarely meets VC investment criteria — in that case, equity is not the right financing model (see [Funding Types](FundingTypes.md#3-equity-investment)).
 - **Market size** — genre/segment TAM and why it's growing. VCs think in markets, not comps.
 - **The machine, not the game** — pipeline, cadence of releases, how each title compounds (shared tech, audience, IP). Show game #1 as proof-of-capability for the machine.
 - **Financials & the round** — raise amount, valuation expectation (or "market"), runway it buys, milestones it reaches, and what the *next* round looks like. Know your cap table cold.
