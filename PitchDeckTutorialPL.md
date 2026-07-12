@@ -2,7 +2,7 @@
 
 🇬🇧 [English version](PitchDeckTutorial.md)
 
-Jak zbudować pitch deck, który zostanie przeczytany — najpierw uniwersalna struktura, potem co podkreślić dla każdego rodzaju finansowania (wydawca, inwestor w projekt, equity/VC, granty — jeśli różnice są mgliste, zajrzyj do [Rodzajów Finansowania](FundingTypesPL.md)). Pojęcia wyjaśniam w [Podstawowych Pojęciach](DefinitionsPL.md).
+Jak zbudować pitch deck, który zostanie przeczytany — najpierw uniwersalna struktura, potem wskazówki dla każdego rodzaju finansowania (wydawca, inwestor w projekt, equity/VC, granty — jeśli różnice między nimi są niejasne, zajrzyj do [Rodzajów Finansowania](FundingTypesPL.md)). Pojęcia wyjaśniam w [Podstawowych Pojęciach](DefinitionsPL.md).
 
 ---
 
@@ -12,7 +12,7 @@ Jak zbudować pitch deck, który zostanie przeczytany — najpierw uniwersalna s
 - [Uniwersalna struktura decku](#uniwersalna-struktura-decku)
 - [Notatki slajd po slajdzie](#notatki-slajd-po-slajdzie)
 - [Analiza rynkowa i budżetowanie](#analiza-rynkowa-i-budżetowanie)
-- [Zasady designu i formy](#zasady-designu-i-formy)
+- [Zasady wyglądu i formy](#zasady-wyglądu-i-formy)
 - [Dopasowanie: pitch do wydawcy](#dopasowanie-pitch-do-wydawcy)
 - [Dopasowanie: pitch do inwestora projektowego](#dopasowanie-pitch-do-inwestora-projektowego)
 - [Dopasowanie: pitch equity / VC](#dopasowanie-pitch-equity--vc)
@@ -24,222 +24,222 @@ Jak zbudować pitch deck, który zostanie przeczytany — najpierw uniwersalna s
 
 ## Zanim otworzysz PowerPointa
 
-Trzy prawdy, które kształtują wszystko poniżej:
+Trzy prawdy, z których wynika cała reszta:
 
-1. **Nikt nie czyta Twojego decku — wszyscy go skanują.** Scout wydawcy widzi setki decków rocznie i daje Twojemu 2–3 minuty przy pierwszym podejściu. Zadaniem decku jest zdobyć spotkanie, nie wyjaśnić wszystko.
-2. **Deck sprzedaje; build przekonuje.** 30-sekundowy GIF z gameplayem bije dziesięć slajdów opisu. Jeśli masz grywalny build albo vertical slice, deck jest tylko jego opakowaniem.
-3. **Odpowiadasz na jedno pytanie: „dlaczego to zarobi pieniądze dla *nas*?"** Kim jest „my" — zmienia odpowiedź. Właśnie po to są sekcje o dopasowaniu.
+1. **Nikt nie czyta Twojego decku — każdy go tylko przegląda.** Scout wydawcy widzi setki decków rocznie i przy pierwszym kontakcie poświęci Twojemu 2–3 minuty. Zadaniem decku jest zdobycie spotkania, a nie wyjaśnienie wszystkiego.
+2. **Deck sprzedaje; build przekonuje.** Trzydziestosekundowy GIF z rozgrywką jest wart więcej niż dziesięć slajdów opisu. Jeśli masz grywalny build albo vertical slice, deck jest tylko jego opakowaniem.
+3. **Odpowiadasz na jedno pytanie: „dlaczego ta gra zarobi pieniądze dla *nas*?"** To, kto kryje się pod „nami", zmienia całą odpowiedź — właśnie temu służą sekcje o dopasowaniu.
 
-**Miej gotowe przed pitchowaniem:** one-pager, deck (PDF, <15 MB, nazwa pliku `NazwaGry_Studio_Pitch_2026.pdf`), wideo z gameplayem (60–90 s, gameplay w pierwszych 5 sekundach) i najlepiej build. Zbadaj każdy cel w [katalogu](GameFundingDirectory.md) — portfolio, widełki budżetowe i wymagania pitchowe — i trzymaj się *ich* procesu zgłoszeń, jeśli taki mają.
+**Przygotuj przed pitchowaniem:** one-pager, deck (PDF, poniżej 15 MB, nazwa pliku `NazwaGry_Studio_Pitch_2026.pdf`), wideo z rozgrywką (60–90 sekund, gameplay w pierwszych 5 sekundach) i najlepiej grywalny build. Sprawdź każdego adresata w [katalogu](GameFundingDirectory.md) — portfolio, widełki budżetowe, wymagania — i jeśli ma własny proces zgłoszeń, trzymaj się go.
 
 ## Uniwersalna struktura decku
 
-10–20 slajdów. Kolejność wypycha hak na przód:
+10–20 slajdów. Najmocniejsze karty idą na początek:
 
 | # | Slajd | Jedno zadanie |
 |---|---|---|
-| 1 | **Tytuł / Hak** | Nazwa gry, key art, jednozdaniowy elevator pitch, gatunek + platformy + okno premiery |
-| 2 | **Gra** | Co *robi* gracz, na jednym ekranie — najlepiej na tle GIF-a/screena z gameplayu |
-| 3 | **Dlaczego się sprzeda (USP)** | 2–4 rzeczy, które czynią ją inną *i* pożądaną |
-| 4 | **Gameplay** | Core loop, przebieg sesji, co sprawia, że gracze wracają |
-| 5 | **Wygląd i klimat** | Kierunek artystyczny, ton, audio — pokazuj, nie opisuj |
-| 6 | **Rynek i komparatywy** | Zdrowie gatunku, 3–5 compów z prawdziwymi liczbami, Twoje pozycjonowanie |
-| 7 | **Trakcja** | Wishlisty, statystyki demo, selekcje festiwalowe, prasa, community — cokolwiek mierzalnego |
-| 8 | **Zespół** | Kim jesteście, wydane tytuły, dlaczego *ten zespół* do *tej gry* |
-| 9 | **Plan produkcji** | Obecny etap, milestone'y do premiery, kontrola zakresu |
-| 10 | **Budżet i prośba (ask)** | Całkowity budżet, o co prosisz, co za to powstanie, co oferujesz w zamian |
+| 1 | **Tytuł / Hak** | Nazwa gry, key art, jednozdaniowy opis, gatunek + platformy + planowana premiera |
+| 2 | **Gra** | Co *robi* gracz — na jednym ekranie, najlepiej na tle GIF-a lub screena z rozgrywki |
+| 3 | **Dlaczego się sprzeda (USP)** | 2–4 cechy, które wyróżniają grę *i* przyciągają graczy |
+| 4 | **Rozgrywka** | Core loop, przebieg typowej sesji, powody, dla których gracze wracają |
+| 5 | **Wygląd i klimat** | Kierunek artystyczny, ton, dźwięk — pokazuj, nie opisuj |
+| 6 | **Rynek i tytuły porównawcze** | Kondycja gatunku, 3–5 comps z prawdziwymi liczbami, Twoje miejsce na tym tle |
+| 7 | **Zainteresowanie (trakcja)** | Wishlisty, statystyki demo, udział w festiwalach, prasa, społeczność — wszystko, co mierzalne |
+| 8 | **Zespół** | Kim jesteście, wydane tytuły, dlaczego *ten zespół* pasuje do *tej gry* |
+| 9 | **Plan produkcji** | Obecny etap, milestone'y do premiery, sposób pilnowania zakresu |
+| 10 | **Budżet i prośba (ask)** | Całkowity budżet, kwota, o którą prosisz, co za nią powstanie i co oferujesz w zamian |
 | 11 | **Kontakt** | E-mail, linki, dostęp do builda |
 
-Aneks (opcjonalny, po kontakcie): szczegóły monetyzacji, pełna analiza compów, rejestr ryzyk, roadmapa popremierowa, CV zespołu.
+Załącznik (opcjonalny, po slajdzie kontaktowym): szczegóły monetyzacji, pełna analiza tytułów porównawczych, lista ryzyk, plany popremierowe, CV zespołu.
 
 ## Notatki slajd po slajdzie
 
-**1 — Hak.** Formuła elevator pitcha, która działa: *„[Gatunek], w którym [twist], dla fanów [comp A] i [comp B]."* — „Przytulny roguelite, w którym gotujesz dla potworów z lochu zamiast z nimi walczyć, dla fanów Dungeon Munchies i Moonlightera." Jeśli czytelnik zatrzyma się po tym slajdzie, i tak powinien dokładnie wiedzieć, co robisz.
+**1 — Hak.** Sprawdzona formuła krótkiego opisu: *„[Gatunek], w którym [twist], dla fanów [gry A] i [gry B]."* — „Cozy roguelite, w którym zamiast walczyć z potworami z lochu, gotujesz dla nich — dla fanów Dungeon Munchies i Moonlightera." Nawet jeśli czytelnik zatrzyma się na tym slajdzie, powinien już dokładnie wiedzieć, co robisz.
 
-**3 — USP.** „Piękny pixel art" i „wciągająca fabuła" to nie USP — tak pisze każdy deck. USP to coś, co scout może powtórzyć swojemu komitetowi greenlightowemu: mechanika, której nikt nie ma, licencja, niedoobsłużona publiczność, do której masz udowodniony dostęp, twórca z followingiem.
+**3 — USP.** „Piękny pixel art" i „wciągająca fabuła" to nie wyróżniki — tak pisze każdy. Prawdziwe USP to coś, co scout może powtórzyć na wewnętrznym spotkaniu: mechanika, której nikt inny nie ma, znana licencja, zaniedbana przez rynek grupa odbiorców, do której masz udokumentowane dojście, twórca z własną publicznością.
 
-**6 — Komparatywy.** Najbardziej prześwietlany slajd. Zasady:
-- Dobieraj compy po *pokryciu publiczności*, nie po wyglądzie. 3–5 tytułów, w tym co najmniej jeden świeży (<3 lata).
-- Używaj prawdziwych liczb (estymaty Gamalytic wystarczą — katalog linkuje je per wydawca) i compów *ze środka stawki*. Obiecywanie liczb Stardew Valley natychmiast zabija Twoją wiarygodność.
-- Pokaż widełki floor/expected/ceiling. Funderzy szanują devów, którzy znają swój realistyczny scenariusz.
-- Nie zgaduj widełek — wyprowadź je z danych. Pełny proces w sekcji [Analiza rynkowa i budżetowanie](#analiza-rynkowa-i-budżetowanie) poniżej.
+**6 — Tytuły porównawcze.** Najdokładniej sprawdzany slajd. Zasady:
+- Dobieraj comps po wspólnej grupie odbiorców, nie po podobnej grafice. 3–5 tytułów, w tym przynajmniej jeden z ostatnich 3 lat.
+- Używaj prawdziwych liczb (estymaty Gamalytic wystarczą — katalog podaje linki przy każdym wydawcy) i tytułów *ze środka stawki*. Obiecywanie wyników Stardew Valley natychmiast rujnuje wiarygodność.
+- Pokaż widełki: scenariusz ostrożny / oczekiwany / optymistyczny. Finansujący cenią twórców, którzy znają swój realistyczny scenariusz.
+- Nie zgaduj tych widełek — wyprowadź je z danych. Cały proces opisuję w sekcji [Analiza rynkowa i budżetowanie](#analiza-rynkowa-i-budżetowanie).
 
-**7 — Trakcja.** Slajd, który najczęściej załatwia spotkanie. Nawet małe liczby biją brak liczb: 8 000 wishlist w 2 miesiące, 25% konwersji demo→wishlista, TikTok z 40 tys. wyświetleń. Jeśli pitchujesz przed ogłoszeniem gry, użyj feedbacku z playtestów i wielkości społeczności.
+**7 — Zainteresowanie.** Slajd, który najczęściej przesądza o spotkaniu. Nawet małe liczby są lepsze niż żadne: 8 000 wishlist w 2 miesiące, 25% konwersji z demo na wishlistę, TikTok z 40 tys. wyświetleń. Jeśli pitchujesz przed publicznym ogłoszeniem gry, pokaż wyniki playtestów i wielkość społeczności.
 
-**8 — Zespół.** Wydane tytuły z rolami i liczbami („lead programmer przy X, 500 tys. kopii"). Brak wydanych tytułów? Pokaż *skończone* rzeczy: wygrane jamy, mody z pobraniami, wcześniejsze kariery. Zaadresuj oczywiste ryzyko („pierwsza gra, ale nasz producent wydał 4 tytuły w Y"), zanim sami je podniosą.
+**8 — Zespół.** Wydane tytuły z rolami i liczbami („główny programista przy X, 500 tys. sprzedanych kopii"). Nie macie wydanych gier? Pokażcie inne *ukończone* rzeczy: wygrane game jamy, mody z liczbą pobrań, wcześniejsze doświadczenie zawodowe. Uprzedź oczywiste zastrzeżenie („to nasza pierwsza gra, ale nasz producent wydał cztery tytuły w Y"), zanim ktoś zdąży je podnieść.
 
-**10 — Budżet i ask.** Nigdy tego nie pomijaj i nigdy nie mów „elastycznie". Podaj: całkowity budżet, o ile prosisz (i skąd reszta — oszczędności, grant, inny partner), zgrubny podział (pensje/marketing/porty/bufor) oraz burn rate + wielkość zespołu, żeby dało się to sprawdzić na zdrowy rozum. Uwzględnij własną pensję — funderzy nie ufają budżetom, w których założyciele żywią się powietrzem.
+**10 — Budżet i ask.** Nigdy nie pomijaj tego slajdu i nigdy nie odpowiadaj „to zależy". Podaj: całkowity budżet, kwotę, o którą prosisz (i źródło reszty — oszczędności, grant, inny partner), przybliżony podział (pensje / marketing / porty / rezerwa) oraz miesięczne koszty i wielkość zespołu, żeby dało się te liczby łatwo zweryfikować. Uwzględnij własną pensję — nikt nie ufa budżetom, w których założyciele pracują za darmo.
 
 ## Analiza rynkowa i budżetowanie
 
-Slajd komparatywów (#6) i slajd budżetu (#10) nie powinny być dwoma osobnymi zgadywankami — analiza rynku powinna *wyprodukować* budżet. Oto proces, który zamienia „myślimy, że się sprzeda" w liczbę do obrony. Działa w obie strony: mówi funderom, jakiego przychodu oczekiwać, i mówi *Tobie*, ile wolno Ci wydać.
+Slajd z tytułami porównawczymi (#6) i slajd z budżetem (#10) nie powinny być dwiema osobnymi zgadywankami — budżet powinien wynikać z analizy rynku. Poniższy proces zamienia „wydaje nam się, że się sprzeda" w liczbę, którą da się obronić. Działa w obie strony: finansującym mówi, jakiego przychodu można oczekiwać, a Tobie — ile wolno Ci wydać.
 
-### Krok 1 — Zbuduj zbiór compów z tagów Steam
+### Krok 1 — Zbuduj listę tytułów porównawczych na podstawie tagów Steam
 
-Zbierz gry, które dzielą **większość tagów Steam** z Twoją (pierwsze ~5 tagów na stronie sklepu napędza silnik rekomendacji Steama — te liczą się najbardziej). Zasady zbioru:
+Zbierz gry, które mają **większość tagów Steam wspólnych** z Twoją (najważniejsze jest pierwszych ~5 tagów na stronie sklepu — to one napędzają rekomendacje Steama). Zasady:
 
-- **Świeżość:** wydane w ciągu ostatnich **2–3 lat**, plus obecnie wydawane i tytuły *nadchodzące*. Rynek z 2019 roku już nie istnieje — stare compy wprowadzają w błąd.
-- **Uwzględnij nadchodzące** — ich wishlisty/followersi pokazują, jaki apetyt ma nisza *teraz* i z kim będziesz konkurować na premierze.
-- **Celuj w 30–50 tytułów.** Poniżej ~10 statystyka to szum; a jeśli nie możesz znaleźć 10, to samo w sobie jest informacją (maleńka nisza albo złe tagi).
+- **Świeżość:** tytuły wydane w ciągu ostatnich **2–3 lat**, obecnie sprzedawane oraz *zapowiedziane*. Rynek z 2019 roku już nie istnieje — stare tytuły porównawcze prowadzą do błędnych wniosków.
+- **Uwzględnij zapowiedzi** — ich wishlisty i liczba obserwujących pokazują, jaki apetyt ma nisza *w tej chwili* i z kim będziesz konkurować w okolicach premiery.
+- **Celuj w 30–50 tytułów.** Przy mniej niż ~10 statystyka zamienia się w szum — a jeśli nie możesz znaleźć nawet dziesięciu, to też jest informacja (bardzo mała nisza albo źle dobrane tagi).
 
 ### Krok 2 — Zbierz je w tabelę
 
-Jeden wiersz na grę. Dane z [Gamalytic](https://gamalytic.com/), [VG Insights](https://vginsights.com/), [SteamDB](https://steamdb.info/) i [GameDiscoverCo](https://newsletter.gamediscover.co/) (estymaty będą się różnić — zanotuj, którego źródła użyłeś, i trzymaj się go konsekwentnie):
+Jeden wiersz na grę. Dane znajdziesz w [Gamalytic](https://gamalytic.com/), [VG Insights](https://vginsights.com/), [SteamDB](https://steamdb.info/) i [GameDiscoverCo](https://newsletter.gamediscover.co/) (estymaty z różnych źródeł będą się różnić — zanotuj, z którego korzystasz, i trzymaj się go konsekwentnie):
 
-| Gra | Premiera | Pokrycie tagów | Cena | Wishlisty (przedpremierowe, jeśli znane) | Followersi | Szac. sprzedaż | Szac. przychód brutto | Ocena / liczba recenzji | Uwagi z forów i od recenzentów |
+| Gra | Premiera | Wspólne tagi | Cena | Wishlisty (przedpremierowe, jeśli znane) | Obserwujący | Szac. sprzedaż | Szac. przychód brutto | Ocena / liczba recenzji | Uwagi z forów i recenzji |
 |---|---|---|---|---|---|---|---|---|---|
 
-Ostatnia kolumna to jakościowe złoto: przejrzyj recenzje Steam, fora dyskusyjne i teksty kuratorów/prasy dla każdego compa. Co gracze chwalą, na co narzekają, co devi zrobili źle? To mówi Ci zarówno *dlaczego* liczby wyglądają tak, jak wyglądają, jak i co Twoja gra musi zrobić lepiej — a przy okazji karmi świetne linijki „nauczyliśmy się z X" w pitchu.
+Ostatnia kolumna jest najcenniejsza: przejrzyj recenzje na Steamie, fora i teksty prasowe o każdym z tytułów. Co gracze chwalą, na co narzekają, co twórcy zepsuli? To wyjaśnia, *dlaczego* liczby wyglądają tak, a nie inaczej, i pokazuje, co Twoja gra musi zrobić lepiej — a przy okazji dostarcza mocnych argumentów w stylu „wyciągnęliśmy wnioski z X".
 
 ### Krok 3 — Odetnij skrajności
 
-Posortuj po sprzedaży i **odrzuć mniej więcej górne i dolne 10–15%**: milionowe przełomowe hity *oraz* kompletne śmieci z dna. Nie zaplanujesz biznesu wokół bycia wyjątkiem — hity zawyżają prognozę przez survivor bias, a dno to zwykle gry, które poległy z powodów niezwiązanych z rynkiem (porzucone, zepsute, zero marketingu).
+Posortuj listę po sprzedaży i **odrzuć mniej więcej po 10–15% z góry i z dołu**: milionowe przeboje *oraz* zupełnie martwe tytuły z dna tabeli. Nie planuj biznesu na założeniu, że będziesz wyjątkiem — przeboje zawyżają prognozę (efekt przeżywalności, tzw. survivor bias), a dno stawki to zwykle gry, które poległy z powodów niezwiązanych z rynkiem: porzucone, zepsute, wydane bez żadnego marketingu.
 
 ### Krok 4 — Wyprowadź oczekiwany przychód
 
-Z przyciętego zbioru policz **średnią i medianę** sprzedaży oraz przychodu. Mediana to Twój *scenariusz oczekiwany*; przycięta średnia zwykle wypada nieco wyżej i może służyć jako scenariusz optymistyczny. (Jeśli średnia i mediana mocno się rozjeżdżają nawet po przycięciu, nisza jest hit-driven — powiedz to w pitchu uczciwie.) Te widełki lądują na Twoim slajdzie rynkowym jako floor/expected/ceiling — teraz poparte tabelą, którą funder może zaudytować, zamiast trzech wybranych pod tezę logotypów.
+Dla okrojonej listy policz **średnią i medianę** sprzedaży oraz przychodu. Mediana to Twój *scenariusz oczekiwany*; średnia po odcięciu skrajności zwykle wychodzi nieco wyżej i może posłużyć za scenariusz optymistyczny. (Jeśli średnia i mediana mocno się rozjeżdżają nawet po odcięciu skrajności, nisza żyje z pojedynczych hitów — powiedz to w pitchu wprost.) Te widełki trafiają na slajd rynkowy jako scenariusz ostrożny / oczekiwany / optymistyczny — poparte tabelą, którą finansujący może zweryfikować, zamiast trzech logotypów dobranych pod tezę.
 
-### Krok 5 — Cofnij się do break-even budgetu
+### Krok 5 — Policz wstecz break-even budget
 
-Oczekiwany przychód *brutto* to nie jest to, co możesz wydać. Odejmij po kolei:
+Oczekiwany przychód *brutto* to nie jest kwota, którą możesz wydać. Odejmij po kolei:
 
-- **~30% cięcia platformy** (udział Steam/sklepów konsolowych)
-- **Zwroty i chargebacki** (kilka %, zależnie od gatunku)
-- **VAT/podatki od sprzedaży** i erozję przez ceny regionalne
-- **Przeceny** — większość sztuk poza pierwszym tygodniem sprzedaje się po obniżce; modeluj *średnią* cenę sprzedaży, nie cenę z okładki
-- **Budżet marketingowy/promocyjny** (jeśli nie siedzi już w budżecie produkcji)
-- **Bufor bezpieczeństwa** (10–20%) na opóźnienia, porty, poprawki popremierowe
-- Udział wydawcy/inwestora, jeśli plan go zakłada
+- **~30% prowizji platformy** (Steam, sklepy konsolowe)
+- **Zwroty i chargebacki** (kilka procent, zależnie od gatunku)
+- **VAT i podatki od sprzedaży** oraz niższe wpływy z tańszych cen regionalnych
+- **Przeceny** — poza premierowym tygodniem większość egzemplarzy sprzedaje się na wyprzedażach; licz *średnią* cenę sprzedaży, nie pełną cenę ze sklepu
+- **Budżet marketingowy** (jeśli nie jest już częścią budżetu produkcji)
+- **Rezerwę na nieprzewidziane wydatki** (10–20%): opóźnienia, porty, poprawki po premierze
+- Udział wydawcy lub inwestora, jeśli plan go zakłada
 
-**Przykład na liczbach — $1 000 000 oczekiwanego brutto, self-publishing (bez udziału wydawcy/inwestora):**
+**Przykład na liczbach — 1 000 000 USD oczekiwanego przychodu brutto, samodzielne wydanie (bez udziału wydawcy i inwestora):**
 
 | Krok | Potrącenie | Zostaje |
 |---|---|---|
-| Oczekiwany przychód brutto (scenariusz medianowy) | — | $1 000 000 |
-| Zwroty i chargebacki (~5%) | −$50 000 | $950 000 |
-| VAT / podatki od sprzedaży (~10% globalnie, uśrednione) | −$95 000 | $855 000 |
-| Cięcie platformy (30%) | −$256 500 | $598 500 |
-| Marketing i promocja (~10% brutto) | −$100 000 | $498 500 |
-| Bufor bezpieczeństwa (~15%) | −$74 800 | **~$423 700** |
+| Oczekiwany przychód brutto (scenariusz medianowy) | — | 1 000 000 $ |
+| Zwroty i chargebacki (~5%) | −50 000 $ | 950 000 $ |
+| VAT / podatki od sprzedaży (~10% w ujęciu globalnym) | −95 000 $ | 855 000 $ |
+| Prowizja platformy (30%) | −256 500 $ | 598 500 $ |
+| Marketing i promocja (~10% przychodu brutto) | −100 000 $ | 498 500 $ |
+| Rezerwa na nieprzewidziane wydatki (~15%) | −74 800 $ | **~423 700 $** |
 
-Z $1M brutto zostaje break-even budget rzędu **$420–425 tys. — trzeba ściąć prawie 58% z nagłówkowej liczby**, zanim zapłacisz pierwszą pensję. (Erozja przez przeceny nie jest tu osobną pozycją, bo estymaty przychodu z Gamalytic/VG Insights już odzwierciedlają faktyczne, obniżone ceny; jeśli policzyłeś brutto jako sztuki × cena z okładki, odejmij dodatkowe ~15–25%.) Dokładne procenty różnią się w zależności od miksu regionów, gatunku i sklepu — ale jeśli Twój model nie tnie *co najmniej* połowy z brutto, jest optymistyczny.
+Z miliona dolarów brutto zostaje break-even budget rzędu **420–425 tys. USD — z wyjściowej kwoty trzeba ściąć prawie 58%**, zanim wypłacisz pierwszą pensję. (Przecen nie ma tu jako osobnej pozycji, bo estymaty przychodu z Gamalytic i VG Insights już uwzględniają faktyczne, obniżone ceny; jeśli policzysz brutto jako liczbę egzemplarzy × pełną cenę, odejmij dodatkowe ~15–25%.) Dokładne wartości zależą od struktury regionalnej sprzedaży, gatunku i sklepu — ale jeśli Twój model nie tnie *co najmniej* połowy przychodu brutto, jest zbyt optymistyczny.
 
-To, co zostaje, to Twój **break-even budget**: maksimum, które możesz wydać na produkcję i wciąż odzyskać koszty *w scenariuszu medianowym*. Jeśli plan produkcji mieści się w tej liczbie, masz **projekt niskiego ryzyka** — gra musi zaledwie osiągnąć *przeciętny* wynik dla swojej niszy, żeby się spłacić, a wszystko powyżej mediany to zysk. To zdanie, poparte tą tabelą, jest jedną z najmocniejszych rzeczy, jakie możesz położyć przed jakimkolwiek funderem — wydawcą, inwestorem projektowym czy komisją grantową.
+To, co zostaje, to Twój **break-even budget**: maksymalna kwota, jaką możesz wydać na produkcję, żeby koszty zwróciły się *w scenariuszu medianowym*. Jeśli plan produkcji mieści się w tej kwocie, masz **projekt niskiego ryzyka** — wystarczy, że gra osiągnie przeciętny dla swojej niszy wynik, żeby się zwrócić, a wszystko powyżej mediany to zysk. To zdanie, poparte taką tabelą, jest jednym z najmocniejszych argumentów, jakie możesz przedstawić komukolwiek — wydawcy, inwestorowi projektowemu czy komisji grantowej.
 
-Jeśli plan się *nie* mieści — zetnij zakres, podnieś cenę, wybierz inną niszę albo zaakceptuj (i otwarcie zaprezentuj), że robisz zakład powyżej break-even. Pitche zabija nie ryzykowna liczba, tylko liczba, której dev ewidentnie nigdy nie policzył.
+A jeśli plan się *nie* mieści — zmniejsz zakres, podnieś cenę, wybierz inną niszę albo zaakceptuj (i otwarcie zaprezentuj), że stawiasz zakład powyżej progu opłacalności. Pitche zabija nie ryzykowna liczba, tylko liczba, której autor ewidentnie nigdy nie policzył.
 
-## Zasady designu i formy
+## Zasady wyglądu i formy
 
-- **Jedna myśl na slajd.** Jeśli slajd potrzebuje akapitu, to są dwa slajdy albo cięcie.
-- **Pokazuj grę na każdym możliwym slajdzie.** Screeny i GIF-y jako tła biją białe slajdy z bullet pointami.
-- **Czytelne na telefonie.** Scouci czytają decki w pociągach. Duży tekst, wysoki kontrast.
-- **PDF, zawsze.** Fonty się nie rozjeżdżają, nie ma wersji PowerPointa, otwiera się wszędzie. Wideo linkuj (miniatura + URL), nigdy nie osadzaj pliku 200 MB.
-- **Wideo:** 60–90 sekund, surowy gameplay w ciągu pierwszych 5 sekund, bez intra z logo studia, bez trailerów czysto filmowych na etapie pitcha.
-- **Aktualizuj datę.** Deck z „Q1 2025" wysłany w lipcu 2026 mówi, że bezskutecznie krąży po rynku od 18 miesięcy.
+- **Jedna myśl na slajd.** Jeśli slajd potrzebuje całego akapitu, podziel go na dwa albo skróć.
+- **Pokazuj grę na każdym możliwym slajdzie.** Screeny i GIF-y w tle działają lepiej niż białe slajdy z wypunktowaniami.
+- **Czytelność na telefonie.** Decki bywają czytane na telefonie w pociągu. Duży tekst, wysoki kontrast.
+- **Zawsze PDF.** Fonty się nie rozjadą, nie ma problemu z wersjami PowerPointa, otwiera się wszędzie. Wideo podlinkuj (miniatura + adres), nigdy nie osadzaj pliku ważącego 200 MB.
+- **Wideo:** 60–90 sekund, czysty gameplay w pierwszych 5 sekundach, bez czołówki z logo studia i bez trailerów wyłącznie filmowych na etapie pitcha.
+- **Aktualizuj datę.** Deck z napisem „Q1 2025" wysłany w lipcu 2026 mówi jedno: ta gra bezskutecznie szuka wydawcy od półtora roku.
 
 ## Dopasowanie: pitch do wydawcy
 
 *(Sekcje katalogu [A](GameFundingDirectory.md#a-high-budget-publishers-aaaaa-capable)–[D](GameFundingDirectory.md#d-aaa-publishers--platform-programs))*
 
-Wydawcy kupują **gry, które umieją sprzedać swojej publiczności**. Podkreśl:
+Wydawcy kupują **gry, które potrafią sprzedać swojej publiczności**. Podkreśl:
 
-- **Dopasowanie do portfolio** — zacznij od tego, dlaczego *oni*: „wasza publiczność przy X pokrywa się z naszą" bije każde generyczne intro. Sprawdź ich stronę wydawcy na Steamie (link w katalogu), zanim napiszesz słowo.
-- **Build.** Większość wydawców nie zaangażuje się na poważnie bez czegoś grywalnego. Vertical slice > deck.
-- **Slajd compów i rynku** — o to kłóci się ich komitet greenlightowy. Zrób go nie do podważenia.
-- **Realizm zakresu** — wydawcy boją się devów, którzy nie umieją dowozić. Milestone'y, cut-lista („co tniemy przy obsuwie") i track record kończenia rzeczy.
-- **Czego potrzebujesz poza pieniędzmi** — porty? lokalizacja? marketing? Wydawcy lubią prośby, które pasują do ich machiny.
-- Czytaj ich pitch guide, jeśli go mają (tinyBuild, 11 bit i Team17 mają — linki w katalogu) i odpowiadaj na pytania z *ich* szablonu.
+- **Dopasowanie do portfolio** — zacznij od tego, dlaczego piszesz właśnie do nich: „publiczność waszego X pokrywa się z naszą" działa lepiej niż jakikolwiek szablonowy wstęp. Zanim napiszesz choć słowo, przejrzyj ich stronę wydawcy na Steamie (link w katalogu).
+- **Build.** Większość wydawców nie zaangażuje się na poważnie bez czegoś grywalnego. Vertical slice znaczy więcej niż deck.
+- **Slajd rynkowy** — to o niego będzie się spierał ich zespół oceniający. Zrób go nie do podważenia.
+- **Realizm zakresu** — wydawcy boją się twórców, którzy nie kończą projektów. Pokaż milestone'y, listę rzeczy do wycięcia w razie obsuwy i historię ukończonych projektów.
+- **Czego potrzebujesz poza pieniędzmi** — portów? lokalizacji? marketingu? Wydawcy lubią prośby, które pasują do tego, co i tak robią najlepiej.
+- Jeśli wydawca ma własny poradnik pitchowania (tinyBuild, 11 bit i Team17 mają — linki w katalogu), przeczytaj go i odpowiedz na pytania z *ich* szablonu.
 
-**Stonuj:** wizję firmy, strategię exitu, TAM rynku — wydawcy nie obchodzi pięcioletni plan Twojego studia, tylko ta gra.
+**Ogranicz do minimum:** wizję firmy, strategię exitu, rozważania o wielkości rynku — wydawcy nie interesuje pięcioletni plan Twojego studia, tylko ta konkretna gra.
 
 ## Dopasowanie: pitch do inwestora projektowego
 
 *(Sekcja katalogu [F](GameFundingDirectory.md#f-developer-run-funds--alternative-financing), część [E](GameFundingDirectory.md#e-game-focused-vc-funds--equity-investors))*
 
-Inwestorzy projektowi kupują **udział w przychodach jednej gry** — liczy się dla nich rachunek ROI, a w przeciwieństwie do wydawcy nie będą jej za Ciebie marketować. Podkreśl:
+Inwestor projektowy kupuje **udział w przychodach jednej gry** — interesuje go rachunek opłacalności, a w przeciwieństwie do wydawcy nie zajmie się za Ciebie marketingiem. Podkreśl:
 
-- **Model finansowy.** Rozwiń slajd budżetu w mini rachunek zysków i strat: budżet → scenariusze przychodu floor/expected/ceiling → ich zwroty przy proponowanym waterfallu w każdym z nich. Pokaż, że umowa jest atrakcyjna w scenariuszu *oczekiwanym*, nie tylko w wymarzonym.
-- **Twój plan self-publishingu.** Skoro nie wnoszą machiny marketingowej, udowodnij, że masz własną: linia budżetu na marketing, strategia wishlist, kto robi porty i QA. Jeśli częścią planu jest wydawca czysto marketingowy, wskaż go z nazwy.
-- **Track record i zbijanie ryzyka** — co już zbudowane, co zwalidowane (metryki demo, playtesty), co zostało. Ich koszmarem jest nieukończona gra; pokaż, że droga stąd do premiery jest krótka i nudna.
-- **Propozycja struktury umowy** — kolejność recoupu, premia, podział i IP zostające u Ciebie. Przyjście ze spójną propozycją struktury sygnalizuje profesjonalizm (i tak ją wynegocjują po swojemu).
+- **Model finansowy.** Rozwiń slajd budżetowy w uproszczony rachunek zysków i strat: budżet → scenariusze przychodu (ostrożny / oczekiwany / optymistyczny) → wypłaty inwestora przy proponowanym waterfallu w każdym z nich. Pokaż, że umowa jest atrakcyjna w scenariuszu *oczekiwanym*, nie tylko w wymarzonym.
+- **Plan samodzielnego wydania.** Skoro inwestor nie wnosi machiny marketingowej, udowodnij, że masz własny plan: osobna pozycja budżetu na marketing, strategia zbierania wishlist, odpowiedzialni za porty i QA. Jeśli częścią planu jest wydawca odpowiadający tylko za marketing, wskaż go z nazwy.
+- **Track record i ograniczanie ryzyka** — co już zbudowano, co zweryfikowano (wyniki demo, playtesty), co zostało do zrobienia. Koszmarem inwestora jest nieukończona gra; pokaż, że droga do premiery jest krótka i pozbawiona niespodzianek.
+- **Propozycja struktury umowy** — kolejność recoupu, ewentualna premia, proporcje podziału i prawa pozostające u Ciebie. Spójna propozycja świadczy o profesjonalizmie (a i tak wynegocjują swoje).
 
-**Stonuj:** długoterminową wizję studia, sequele (chyba że jako upside), filozofię artystyczną.
+**Ogranicz do minimum:** długofalową wizję studia, sequele (chyba że jako dodatkowy potencjał), rozważania artystyczne.
 
 ## Dopasowanie: pitch equity / VC
 
 *(Sekcja katalogu [E](GameFundingDirectory.md#e-game-focused-vc-funds--equity-investors))*
 
-VC kupują **kawałek Twojej firmy** — gra jest *dowodem*, nie produktem. Ten deck jest bliższy deckowi startupowemu niż pitchowi gry. Przebuduj go wokół:
+VC kupują **część Twojej firmy** — gra jest tu *dowodem*, nie produktem. Taki deck bliższy jest prezentacji startupu niż pitchowi gry. Zbuduj go wokół:
 
-- **Zespół na pierwszym miejscu.** Przy equity wczesnego etapu zespół to 60% decyzji. Doświadczenie, wydane tytuły, dlaczego ta grupa jest wyjątkowo dobrze skrojona pod ten plan.
-- **Wizja i skala** — czym *firma* staje się za 5–10 lat: studiem wielotytułowym? fabryką IP? platformą/technologią? „Robimy jedną fajną grę indie" to nie jest case dla VC — a jeśli to szczera odpowiedź, nie pitchuj VC (zob. [Rodzaje Finansowania](FundingTypesPL.md#3-inwestycja-equity)).
-- **Wielkość rynku** — TAM gatunku/segmentu i dlaczego rośnie. VC myślą rynkami, nie compami.
-- **Maszyna, nie gra** — pipeline, rytm wydawniczy, jak każdy tytuł się kumuluje (wspólna technologia, publiczność, IP). Pokaż grę #1 jako dowód zdolności maszyny.
-- **Finanse i runda** — kwota rundy, oczekiwana wycena (albo „rynkowa"), runway, który kupuje, milestone'y, które osiąga, i jak wygląda *następna* runda. Znaj swój cap table na pamięć.
-- **Świadomość exitu** — na seedzie nie potrzebujesz slajdu o exicie, ale bądź gotowy na pytanie. „Kto przejmuje studia takie jak nasze i dlaczego" — to kształt odpowiedzi.
+- **Zespół na pierwszym miejscu.** Przy inwestycjach na wczesnym etapie zespół to 60% decyzji. Doświadczenie, wydane tytuły i powód, dla którego właśnie ta grupa jest wyjątkowo dobrze skrojona pod ten plan.
+- **Wizja i skala** — czym *firma* stanie się za 5–10 lat: studiem z wieloma tytułami? fabryką własnych marek? firmą technologiczną? „Robimy jedną fajną grę indie" nie przekona żadnego VC — a jeśli to szczera odpowiedź, nie pitchuj funduszom (zob. [Rodzaje Finansowania](FundingTypesPL.md#3-inwestycja-equity)).
+- **Wielkość rynku** — rozmiar gatunku lub segmentu i powody, dla których rośnie. VC myślą rynkami, nie pojedynczymi tytułami.
+- **Maszyna, nie gra** — pipeline, rytm wydawniczy, sposób, w jaki kolejne tytuły budują na sobie (wspólna technologia, publiczność, marki). Pierwszą grę pokaż jako dowód, że ta maszyna działa.
+- **Finanse i runda** — kwota, którą zbierasz, oczekiwana wycena (albo „rynkowa"), runway, który za to kupisz, cele, które w tym czasie osiągniesz, i jak ma wyglądać *kolejna* runda. Cap table znaj na pamięć.
+- **Świadomość exitu** — na etapie seed nie potrzebujesz slajdu o exicie, ale przygotuj się na pytanie. Odpowiedź powinna mieć kształt: „studia takie jak nasze przejmują firmy X i Y, ponieważ…".
 
-**Stonuj:** głębokie dyskusje o mechanikach, level designie, pipeline'ach artystycznych — jeden slajd o gameplayu wystarczy; jak będą zainteresowani, zagrają w build.
+**Ogranicz do minimum:** szczegółowe omawianie mechanik, level designu i pipeline'ów graficznych — wystarczy jeden slajd o rozgrywce; jeśli będą zainteresowani, zagrają w build.
 
 ## Dopasowanie: wniosek grantowy
 
 *(Sekcja katalogu [G](GameFundingDirectory.md#g-grants--public-funding))*
 
-Granty niczego nie kupują — **realizują misję programu** Twoim projektem. To mniej pitch, bardziej egzamin:
+Grant niczego nie kupuje — Twój projekt ma **realizować misję programu**. To mniej pitch, a bardziej egzamin:
 
-- **Przeczytaj kryteria, potem je odbij lustrem.** Każdy program punktuje według opublikowanych kryteriów (wartość kulturowa, innowacyjność, zatrudnienie w regionie, potencjał eksportowy…). Ułóż wniosek tak, żeby oceniający mógł odhaczać swoje rubryki bez szukania.
-- **Kąt kulturowy/innowacyjny** — rzeczy, które wyciąłbyś z decku dla wydawcy (motywy narracyjne, ambicja artystyczna, wartość edukacyjna, lokalny język/kultura), tutaj często punktują najmocniej.
-- **Precyzja budżetu** — budżety grantowe się audytuje, nie negocjuje. Trzymaj się ich szablonu, respektuj zasady kosztów kwalifikowanych i bądź dokładny.
-- **Wykonalność i harmonogram** — publiczni funderzy nienawidzą projektów nieukończonych bardziej niż nudnych. Konserwatywny zakres, jasne milestone'y, dowody, że dowozisz.
-- **Wkład własny / match funding** — wiele grantów pokrywa tylko procent; pokaż, skąd reszta.
+- **Przeczytaj kryteria i odwzoruj je we wniosku.** Każdy program punktuje według opublikowanych kryteriów (wartość kulturowa, innowacyjność, zatrudnienie w regionie, potencjał eksportowy…). Ułóż wniosek tak, żeby oceniający mógł odhaczać kolejne rubryki bez szukania.
+- **Wątek kulturowy i innowacyjny** — to, co wyciąłbyś z decku dla wydawcy (tematyka fabuły, ambicje artystyczne, wartość edukacyjna, lokalny język i kultura), tutaj często punktuje najmocniej.
+- **Precyzja budżetu** — budżety grantowe podlegają audytowi, a nie negocjacjom. Trzymaj się szablonu programu, respektuj katalog kosztów kwalifikowanych i licz dokładnie.
+- **Wykonalność i harmonogram** — publiczne instytucje bardziej niż nudnych projektów boją się projektów nieukończonych. Konserwatywny zakres, jasne milestone'y i dowody, że kończysz to, co zaczynasz.
+- **Wkład własny** — wiele grantów pokrywa tylko część kosztów; pokaż, skąd weźmiesz resztę.
 
-**Stonuj:** prognozy przychodów i ROI (zwykle nieistotne albo wręcz kontrproduktywne), język hype'u.
+**Ogranicz do minimum:** prognozy przychodów i zwrotu z inwestycji (zwykle bez znaczenia, a bywają wręcz źle widziane) oraz marketingowy język.
 
 ## Proces wokół decku
 
-Świetny deck ze złym procesem i tak przegrywa:
+Świetny deck przy złym procesie i tak przegra:
 
-1. **Zbuduj listę celów** z [katalogu](GameFundingDirectory.md) — filtruj po widełkach budżetowych, dopasowaniu gatunkowym i typie finansowania. Celuj w 20–50 adresatów, w warstwach (marzenie / dobre dopasowanie / zapas).
-2. **Personalizuj pierwszego maila.** 5–8 zdań: hak, dlaczego konkretnie oni, jedna liczba trakcji, linki do decku + wideo + builda. Ten mail to pitch pitcha.
-3. **Pitchuj falami,** nie wszystkim naraz — feedback z fali 1 poprawia deck przed falą 2. Zacznij od kilku celów *spoza marzeń*, żeby poćwiczyć.
-4. **Przypomnij się** raz po ~2 tygodniach, uprzejmie. Cisza po tym to „nie" — idź dalej.
-5. **Notuj wszystko** w arkuszu: kto, kiedy, odpowiedź, feedback. Wzorce w odmowach mówią, co poprawić.
-6. **Eventy pomagają:** GDC, Gamescom/Devcom, DevGAMM i wydarzenia regionalne mają matchmaking z wydawcami/inwestorami, który omija stertę cold maili.
-7. **Licz się z miesiącami.** Od pierwszego kontaktu do podpisanej umowy 3–9 miesięcy to norma. Pitchuj, *zanim* będziesz zdesperowany — desperacja źle się wycenia.
-8. **Prawnik przed podpisem.** Gdy przyjdzie term sheet albo umowa, daj ją do przejrzenia prawnikowi wyspecjalizowanemu w grach. W Polsce dobrym punktem startu jest [GLA — Gamedev Lawyers Association](https://gla.dev/) oraz kancelarie z nią związane i wyspecjalizowane w gamedevie, m.in. [kancelaria-ro.pl](https://kancelaria-ro.pl/), [g2law](https://g2law.pl/gamedev) czy [EK LEGAL / GameDev Lawyer](https://gamedevlawyer.pl/). Pamiętaj, że przeniesienie praw do gry i licencja wyłączna wymagają w Polsce formy pisemnej, a umowa obejmuje tylko wymienione wprost pola eksploatacji — szczegóły w [Polskim kontekście prawnym](FundingTypesPL.md#polski-kontekst-prawny).
+1. **Zbuduj listę adresatów** na podstawie [katalogu](GameFundingDirectory.md) — filtruj po widełkach budżetowych, dopasowaniu gatunkowym i typie finansowania. Celuj w 20–50 podmiotów podzielonych na grupy: wymarzeni / dobrze dopasowani / rezerwowi.
+2. **Personalizuj pierwszą wiadomość.** 5–8 zdań: hak, powód, dla którego piszesz właśnie do nich, jedna liczba pokazująca zainteresowanie grą, linki do decku, wideo i builda. Ten mail to pitch Twojego pitcha.
+3. **Wysyłaj falami,** nie do wszystkich naraz — uwagi z pierwszej fali poprawią deck przed drugą. Zacznij od kilku adresatów spoza listy marzeń, żeby poćwiczyć.
+4. **Przypomnij się** raz, po około dwóch tygodniach, uprzejmie. Dalsza cisza oznacza „nie" — idź dalej.
+5. **Wszystko notuj** w arkuszu: kto, kiedy, jaka odpowiedź, jakie uwagi. Powtarzające się powody odmów podpowiedzą, co poprawić.
+6. **Korzystaj z wydarzeń branżowych:** GDC, Gamescom/Devcom, DevGAMM i imprezy regionalne oferują umawiane spotkania z wydawcami i inwestorami — to droga na skróty obok sterty cold maili.
+7. **Licz się z miesiącami.** Od pierwszego kontaktu do podpisania umowy zwykle mijają 3–9 miesięcy. Zacznij, *zanim* będziesz pod ścianą — desperacja obniża cenę.
+8. **Prawnik przed podpisem.** Gdy dostaniesz term sheet albo umowę, daj ją do sprawdzenia prawnikowi wyspecjalizowanemu w grach. W Polsce dobrym punktem startu jest [GLA — Gamedev Lawyers Association](https://gla.dev/) oraz kancelarie z nim związane i wyspecjalizowane w gamedevie, m.in. [kancelaria-ro.pl](https://kancelaria-ro.pl/), [g2law](https://g2law.pl/gamedev) czy [EK LEGAL / GameDev Lawyer](https://gamedevlawyer.pl/). Pamiętaj, że przeniesienie praw do gry i licencja wyłączna wymagają w Polsce formy pisemnej, a umowa obejmuje tylko wymienione wprost pola eksploatacji — szczegóły w [Polskim kontekście prawnym](FundingTypesPL.md#polski-kontekst-prawny).
 
 ## Typowe błędy
 
-- **Zakopanie gry.** Slajdy 1–2 muszą pokazywać, co robi gracz. Lore, historia studia i teoria rynku przychodzą później albo wcale.
-- **Brak aska.** Decki, które nigdy nie mówią, ile pieniędzy chcą, na co i co oferują w zamian.
-- **Compy z kosmosu** — porównywanie się do definiujących gatunek megahitów jako scenariusz oczekiwany.
-- **Zły deck do złej publiczności** — wysyłanie game-first decku wydawniczego do VC albo modelu ROI do komisji grantowej (ten poradnik istnieje właśnie przez ten błąd).
-- **Zakres ponad track record** — zespół bez wydanej gry pitchujący 4-letnie open-worldowe RPG. Funderzy dopasowują to wzorcem do „nigdy nie wyjdzie".
-- **Ignorowanie wytycznych zgłoszeń** tam, gdzie istnieją — to pierwszy test, czy udźwigniesz umowę milestone'ową.
-- **Pitchowanie za wcześnie** — bez niczego grywalnego i bez trakcji prosisz funderów, żeby wyobrazili sobie wszystko. Odpowiedzią na „za wcześnie" jest zwykle grant albo fundusz prototypowy, nie wydawca.
-- **Branie pierwszej oferty, bo jest jedyna.** Równoległe rozmowy to dźwignia; z jedną ofertą nie masz żadnej pozycji negocjacyjnej. Po to właśnie pitchuje się falami i zanim skończą się pieniądze.
+- **Zakopanie gry.** Slajdy 1–2 muszą pokazywać, co robi gracz. Historia świata, dzieje studia i teoria rynku mogą poczekać — albo w ogóle wylecieć.
+- **Brak konkretnej prośby.** Decki, z których nie wynika, ile pieniędzy potrzeba, na co i co jest oferowane w zamian.
+- **Porównania z kosmosu** — traktowanie megahitów definiujących gatunek jako scenariusza oczekiwanego.
+- **Zły deck dla złego odbiorcy** — wysyłanie decku skupionego na grze do funduszu VC albo modelu finansowego do komisji grantowej (ten poradnik powstał właśnie przez ten błąd).
+- **Zakres ponad możliwości** — zespół bez wydanej gry pitchujący czteroletnie RPG z otwartym światem. Dla finansujących to klasyczny sygnał, że projekt nigdy nie powstanie.
+- **Ignorowanie wytycznych zgłoszeń** tam, gdzie istnieją — to pierwszy sprawdzian, czy poradzisz sobie z umową rozliczaną milestone'ami.
+- **Pitchowanie za wcześnie** — bez grywalnej wersji i bez mierzalnego zainteresowania prosisz finansujących, żeby wszystko wzięli na wiarę. Na „za wcześnie" odpowiedzią jest zwykle grant albo fundusz prototypowy, nie wydawca.
+- **Przyjmowanie pierwszej oferty tylko dlatego, że jest jedyna.** Równoległe rozmowy to siła przetargowa; z jedną ofertą nie masz żadnej pozycji negocjacyjnej. Właśnie dlatego pitchuje się falami — i zanim skończą się pieniądze.
 
 ---
 
 ## Źródła i dalsza lektura
 
-**Fundamenty pitchowania:**
-- Brian Upton — *30 Things I Hate About Your Game Pitch* (GDC 2017), klasyka o błędach w pitchach: https://www.youtube.com/watch?v=4LTtr45y7P0 ([GDC Vault](https://www.gdcvault.com/play/1023998/Thirty-Things-I-Hate-About))
+**Podstawy pitchowania:**
+- Brian Upton — *30 Things I Hate About Your Game Pitch* (GDC 2017), klasyczny wykład o błędach w pitchach: https://www.youtube.com/watch?v=4LTtr45y7P0 ([GDC Vault](https://www.gdcvault.com/play/1023998/Thirty-Things-I-Hate-About))
 - Rami Ismail — *A Good Pitch* z *Levelling The Playing Field*: https://ltpf.ramiismail.com/pitching-in (jego szablon pitch decku: https://gameworldobserver.com/2023/07/28/pitch-deck-template-gamedev-business-rami-ismail)
-- Jason Della Rocca — wskazówki od prowadzącego GDC Pitch: https://www.gamedeveloper.com/business/four-tips-for-pitching-your-game-to-investors-and-publishers oraz https://gdconf.com/article/interview-jason-della-rocca-talks-pitching-games-as-art-and-masterclass
+- Jason Della Rocca — wskazówki prowadzącego GDC Pitch: https://www.gamedeveloper.com/business/four-tips-for-pitching-your-game-to-investors-and-publishers oraz https://gdconf.com/article/interview-jason-della-rocca-talks-pitching-games-as-art-and-masterclass
 - Panel GDC Pitch — *How to pitch your STUDIO to VCs*: https://gdcvault.com/play/1027296/GDC-Pitch-Presents-How-to
 
-**O co proszą sami wydawcy** (trzymaj się ich, pitchując daną firmę):
-- Pitch guide tinyBuild: https://www.tinybuild.com/how-to-pitch-your-game
+**Czego oczekują sami wydawcy** (trzymaj się tych wytycznych, pisząc do danej firmy):
+- Poradnik pitchowania tinyBuild: https://www.tinybuild.com/how-to-pitch-your-game
 - Poradnik wydawniczy 11 bit studios: https://11bitstudios.com/publishing/
-- Poradnik zgłoszeń Team17: https://www.team17.com/submit-game/
-- Więcej portali i poradników pitchowych per wydawca w [katalogu](GameFundingDirectory.md)
+- Zasady zgłoszeń Team17: https://www.team17.com/submit-game/
+- Więcej formularzy i poradników poszczególnych wydawców w [katalogu](GameFundingDirectory.md)
 
-**Rynek, trakcja i materiały:**
-- Chris Zukowski, *How To Market A Game* — dane o wishlistach i premierach stojące za radami o trakcji/rynku: https://howtomarketagame.com/ (np. https://howtomarketagame.com/2025/01/27/do-wishlists-get-old)
-- GameDiscoverCo (Simon Carless) — sumy wishlist vs wyniki premier: https://newsletter.gamediscover.co/
-- Benchmarki wishlist wg progów przychodu: https://presskit.gg/field-guides/how-many-wishlists-to-launch
-- Derek Lieu (montażysta trailerów Firewatch, Subnautiki, Dead Cells) — wszystko o trailerach gier: https://www.derek-lieu.com/blog
-- presskit() Ramiego Ismaila — standardowy format prezentacji dla prasy/partnerów: https://dopresskit.com/
+**Rynek, zainteresowanie i materiały:**
+- Chris Zukowski, *How To Market A Game* — dane o wishlistach i premierach, na których opierają się rady o rynku: https://howtomarketagame.com/ (np. https://howtomarketagame.com/2025/01/27/do-wishlists-get-old)
+- GameDiscoverCo (Simon Carless) — liczba wishlist a wyniki premier: https://newsletter.gamediscover.co/
+- Progi wishlist według poziomów przychodu: https://presskit.gg/field-guides/how-many-wishlists-to-launch
+- Derek Lieu (montażysta trailerów Firewatch, Subnautiki i Dead Cells) — wszystko o trailerach gier: https://www.derek-lieu.com/blog
+- presskit() Ramiego Ismaila — standardowy format materiałów dla prasy i partnerów: https://dopresskit.com/
 
 ---
 
