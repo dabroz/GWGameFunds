@@ -9,6 +9,7 @@ How to build a pitch deck that gets read — the universal structure first, then
 - [Before You Open PowerPoint](#before-you-open-powerpoint)
 - [The Universal Deck Structure](#the-universal-deck-structure)
 - [Slide-by-Slide Notes](#slide-by-slide-notes)
+- [Market-Driven Analysis & Budgeting](#market-driven-analysis--budgeting)
 - [Design & Delivery Rules](#design--delivery-rules)
 - [Tailoring: Publisher Pitch](#tailoring-publisher-pitch)
 - [Tailoring: Project Investor Pitch](#tailoring-project-investor-pitch)
@@ -59,12 +60,71 @@ Appendix (optional, after contact): monetization details, full comp analysis, ri
 - Pick comps by *audience overlap*, not looks. 3–5 titles, at least one recent (<3 years).
 - Use real numbers (Gamalytic estimates are fine — the directory links them per publisher) and *median-case* comps. Claiming Stardew Valley numbers kills your credibility instantly.
 - Show a floor/expected/ceiling range. Funders respect devs who know their realistic case.
+- Don't guess the range — derive it from data. Full process in [Market-Driven Analysis & Budgeting](#market-driven-analysis--budgeting) below.
 
 **7 — Traction.** The slide that most often gets the meeting. Even small numbers beat no numbers: 8,000 wishlists in 2 months, 25% demo→wishlist conversion, a 40k-view TikTok. If pitching pre-announcement, use playtest feedback and community size.
 
 **8 — Team.** Shipped titles with roles and numbers ("lead programmer on X, 500k copies"). No shipped titles? Show finished *things*: jam wins, mods with downloads, previous careers. Address the obvious risk ("first game, but our producer shipped 4 titles at Y") before they raise it.
 
 **10 — Budget & Ask.** Never leave this out and never say "flexible." State: total budget, how much you're asking for (and what covers the rest — savings, grant, other partner), rough breakdown (salaries/marketing/ports/contingency), and burn rate + team size so they can sanity-check it. Include your own salary — funders distrust budgets where founders eat air.
+
+## Market-Driven Analysis & Budgeting
+
+The comparables slide (#6) and the budget slide (#10) shouldn't be two separate guesses — the market analysis should *produce* the budget. This is the process that turns "we think it'll sell" into a defensible number, and it works in both directions: it tells funders what revenue to expect, and it tells *you* how much you're allowed to spend.
+
+### Step 1 — Build the comp set from Steam tags
+
+Collect games that share **most of their Steam tags** with yours (the first 5 or so tags on a store page are the ones that drive Steam's recommendation engine — those matter most). Rules for the set:
+
+- **Recency:** released within the last **2–3 years**, plus currently released and *upcoming* titles. The market of 2019 doesn't exist anymore — old comps mislead.
+- **Include the upcoming ones** — their wishlist/follower counts show how much appetite the niche has *right now* and who you'll be competing with at launch.
+- **Aim for 30–50 titles.** Fewer than ~10 and the statistics below are noise; if you can't find 10, that itself is information (tiny niche or wrong tags).
+
+### Step 2 — Put them in a table
+
+One row per game. Pull data from [Gamalytic](https://gamalytic.com/), [VG Insights](https://vginsights.com/), [SteamDB](https://steamdb.info/) and [GameDiscoverCo](https://newsletter.gamediscover.co/) (estimates will disagree — note which source you used and stay consistent):
+
+| Game | Release | Tags overlap | Price | Wishlists (pre-launch, if known) | Followers | Est. sales | Est. gross revenue | Review score / count | Notes from forums & reviewers |
+|---|---|---|---|---|---|---|---|---|---|
+
+The last column is the qualitative gold: skim Steam reviews, discussion forums and curator/press coverage for each comp. What do players praise, what do they complain about, what did the devs get wrong? This tells you both *why* the numbers look the way they do and what your game must do better — and it feeds great "we learned from X" lines in the pitch.
+
+### Step 3 — Cut the outliers
+
+Sort by sales and **drop roughly the top and bottom 10–15%**: the million-selling breakout hits *and* the dead-on-arrival junk. You can't plan a business around being the outlier — the breakouts inflate your forecast with survivor bias, and the bottom is usually games that failed for reasons unrelated to the market (abandoned, broken, zero marketing).
+
+### Step 4 — Derive expected revenue
+
+From the trimmed set, compute the **mean and median** sales and revenue. The median is your *expected case*; the trimmed mean usually lands a bit higher and can serve as the optimistic case. (If mean and median are wildly far apart even after trimming, the niche is hit-driven — say so honestly in the pitch.) This range is what goes on your market slide as floor/expected/ceiling — now backed by a table a funder can audit instead of three cherry-picked logos.
+
+### Step 5 — Work backward to the break-even budget
+
+Expected *gross* revenue is not what you get to spend. Deduct, in order:
+
+- **~30% platform cut** (Steam/console store share)
+- **Refunds and chargebacks** (a few %, genre-dependent)
+- **VAT/sales taxes** and regional pricing erosion
+- **Discounting** — most units outside week one sell at a cut price; model your *average* selling price, not the sticker price
+- **Marketing/promotion budget** (if it's not in the dev budget already)
+- **A contingency buffer** (10–20%) for delays, ports, post-launch fixes
+- Publisher/investor share, if the plan includes one
+
+**Worked example — $1,000,000 expected gross, self-published (no publisher/investor share):**
+
+| Step | Deduction | Remaining |
+|---|---|---|
+| Expected gross revenue (median scenario) | — | $1,000,000 |
+| Refunds & chargebacks (~5%) | −$50,000 | $950,000 |
+| VAT / sales taxes (~10% blended global) | −$95,000 | $855,000 |
+| Platform cut (30%) | −$256,500 | $598,500 |
+| Marketing & promotion (~10% of gross) | −$100,000 | $498,500 |
+| Contingency buffer (~15%) | −$74,800 | **~$423,700** |
+
+From $1M gross you're left with a break-even budget of roughly **$420–425K — you have to cut almost 58% off the headline number** before a single salary is paid. (Discount erosion isn't a separate line here because revenue estimates from Gamalytic/VG Insights already reflect actual discounted prices; if you instead computed gross as units × sticker price, deduct another ~15–25% for it.) The exact percentages vary by region mix, genre and store — but if your model doesn't cut *at least* half off gross, it's optimistic.
+
+What's left is your **break-even budget**: the maximum you can spend on development and still recover costs *in the median scenario*. If your production plan fits inside that number, you have a **low-risk project** — the game only needs to perform *averagely* for its niche to pay for itself, and anything above median is profit. That sentence, backed by this table, is one of the strongest things you can put in front of any funder — publisher, project investor or grant committee alike.
+
+If the plan *doesn't* fit — cut scope, raise the price, pick a different niche, or accept (and openly present) that you're making a bet above break-even. What kills pitches isn't a risky number; it's a number the dev clearly never calculated.
 
 ## Design & Delivery Rules
 
